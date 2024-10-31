@@ -1,0 +1,12 @@
+Questions to ask to find out the issues with the formulas not working on excel.
+Is the calculation mode set to automatic ?
+Are you entering the equal sign before and selecting the formula you'd like to use before putting in the entries?
+Are you clicking enter at the end of the formula ?
+Are you selecting the cell's correctly?
+Are you using the correct seperators in the formula?
+
+https://support.microsoft.com/en-us/office/how-to-avoid-broken-formulas-in-excel-8309381d-33e8-42f6-b889-84ef6df1d586
+https://support.microsoft.com/en-us/office/fix-an-inconsistent-formula-5dd940a1-4f87-44bd-91dd-bf45ed828f05
+https://support.microsoft.com/en-us/office/replace-a-formula-with-its-result-38001951-c0e8-4fbd-9048-37ef81e2891e
+
+
