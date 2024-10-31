@@ -1,0 +1,11 @@
+https://www.itilite.com/blog/expense-spreadsheet-errors/
+https://learnexcelonline.in/7-common-excel-mistakes-and-how-to-avoid-them/
+https://www.goskills.com/Excel/Resources/Excel-errors
+https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid
+https://www.shiksha.com/online-courses/articles/what-are-excel-errors-and-how-to-fix-them/
+
+Here are some of the top excel error messages you may receive and what they represent; N/A, Value!, Name?, Null!
+N/a Means "Not Available" You will see this messages if excel is unable to find the value you are looking for.
+Value! means "Invalid Value" this occurs when the wrong arguements are entered into the formula
+You will see the "Name?" error when excel cant find the name, This is most likely linked to a typing error
+You will receive the error message "Null!" if a value is empty, if excel can not determine a range for a formula, you will receive a "Null!" error message
